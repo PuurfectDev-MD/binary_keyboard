@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "Library") (type "KiCad") (uri "D:/KiCad Resources/Dual Axis small joystick/Library.pretty") (options "") (descr ""))
+	(lib (name "small _yoystick") (type "KiCad") (uri "D:/KiCad Resources/small _yoystick.pretty") (options "") (descr ""))
+)

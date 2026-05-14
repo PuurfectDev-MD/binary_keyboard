@@ -1,1 +1,1 @@
-In progress!
+![img](/zine.png)
