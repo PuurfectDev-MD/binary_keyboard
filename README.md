@@ -2,7 +2,7 @@
 ![img](/zine.png)
 
 
-This is wacky, silly project where you can type your keyboard inputs in binary and send it to a connected device. Basically a keyboard but type in binary because why not! It uses the SuperMini nRF52840 mcu ( a nice!nano clone) which supports bluetooth connectivity for you to send your inputs wirelessly.
+This is wacky, silly project where you can type your keyboard inputs in binary and send it to a connected device. You can enter the byte values (8 switches represent 8 bits in a byte) which represents a character. Then you confirm your input with the enter switch to covert that binary byte to a character to send to your device (wired or wireless!). Basically a keyboard but you type in binary because why not! It uses the SuperMini nRF52840 mcu ( a nice!nano clone) which supports bluetooth connectivity for you to send your inputs wirelessly.
 
 
 ## Motivation
